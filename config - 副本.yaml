@@ -1,0 +1,28 @@
+headers: 
+    user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.139 Safari/537.36"
+    accpet: "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+    accept-encoding: "gzip, deflate, br"
+    accpet-language: "zh-CN,zh;q=0.9"
+    cache-control: "no-cache"
+    pragma: "no-cache"
+    referer: "https://e-hentai.org"
+    sec-ch-ua: "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"98\""
+    sec-ch-ua-platform: "windows"
+    sec-fetch-dest: "image"
+    sec-fetch-mode: "no-cors"
+    sec-fetch-site: "cross-site"
+
+retry_max_times: 15
+download_chunk_size: 8192
+timeout_second: 6
+record_file_name: "current_record.yanl"
+
+begin_url: ""
+img_save_root_dir: ""
+artist: ""
+package: ""
+base_cd_second: 3.5
+random_cd_second_limit: 3.0
+
+
+# 
